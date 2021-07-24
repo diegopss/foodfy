@@ -1,6 +1,6 @@
 
 .logo{
-    margin-left: 15%;
+    margin-left: 20%;
 }
 
 
@@ -12,12 +12,12 @@
 }
 .grid-container{
 border-radius: 20px;
-margin-left: 15%;
-width: 70%;
+margin-left: 20%;
+width: 940px;
 background: #FBDFDB;
 display: grid;
 grid-template-columns: auto auto;
-
+margin
 }
 #titulo-principal{
     margin-top: 40px;
@@ -35,8 +35,8 @@ grid-template-columns: auto auto;
     max-width: 316px;
     margin: 0 60px;
 }
-#wrapper{
-    margin-left: 15%;
+.wrapper{
+    margin-left: 20%;
 }
 .cards{
     
@@ -50,4 +50,27 @@ grid-template-columns: auto auto;
     height: 140px;
     border-radius: 15px;
     border-radius: 15px;
+}
+.conteudo-sobre {
+    max-width: 940px;
+    margin: 0;
+}
+.footer {
+    
+    position: absolute;
+    bottom:0;
+    width:100%;
+    background-color: #EEEEEE;
+}
+
+    
+
+
+.conteudo-footer p {
+    
+    margin-left: 40%;
+    font-size: 14px;
+    color: #999999;
+    
+
 }
