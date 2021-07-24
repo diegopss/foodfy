@@ -35,3 +35,19 @@ grid-template-columns: auto auto;
     max-width: 316px;
     margin: 0 60px;
 }
+#wrapper{
+    margin-left: 15%;
+}
+.cards{
+    
+    max-width: 300px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+.card img{
+    width: 300px;
+    height: 140px;
+    border-radius: 15px;
+    border-radius: 15px;
+}
