@@ -1,0 +1,37 @@
+
+.logo{
+    margin-left: 15%;
+}
+
+
+.nav-bar  a{
+    font-size: 16px;
+    margin: 0 19px;
+    text-decoration: none;
+    color: #111111;
+}
+.grid-container{
+border-radius: 20px;
+margin-left: 15%;
+width: 70%;
+background: #FBDFDB;
+display: grid;
+grid-template-columns: auto auto;
+
+}
+#titulo-principal{
+    margin-top: 40px;
+    margin-left: 60px;
+    font-family: Roboto-Bold;
+    font-size: 32px;
+    color: #111111;
+}
+#conteudo-principal{
+    opacity: 0.7;
+    font-family: Roboto-Regular;
+    font-size: 18px;
+    color: #000000;
+    line-height: 28px;
+    max-width: 316px;
+    margin: 0 60px;
+}
