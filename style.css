@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 .logo{
     margin-left: 20%;
 }
@@ -9,6 +9,7 @@
     margin: 0 19px;
     text-decoration: none;
     color: #111111;
+    font-family: 'Roboto', sans-serif;
 }
 .grid-container{
 border-radius: 20px;
@@ -22,13 +23,13 @@ margin
 #titulo-principal{
     margin-top: 40px;
     margin-left: 60px;
-    font-family: Roboto-Bold;
+    font-family: 'Roboto', sans-serif;
     font-size: 32px;
     color: #111111;
 }
 #conteudo-principal{
     opacity: 0.7;
-    font-family: Roboto-Regular;
+    font-family: 'Roboto', sans-serif;
     font-size: 18px;
     color: #000000;
     line-height: 28px;
@@ -37,6 +38,7 @@ margin
 }
 .wrapper{
     margin-left: 20%;
+    font-family: 'Roboto', sans-serif;
 }
 .cards{
     
@@ -57,9 +59,9 @@ margin
 }
 .footer {
     
-    position: absolute;
+    position: relative;
     bottom:0;
-    width:100%;
+    width:100%;    
     background-color: #EEEEEE;
 }
 
